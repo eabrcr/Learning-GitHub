@@ -1,9 +1,7 @@
-# 1600 Tutorial Project
-## Touch Typing Basics Tutorial
+# Touch Typing Basics Tutorial
+## Author: Ethan Baumhoff
 ---
-Class:
-INFOTC 1600
-
+The purpose of this tutorial is to familiarize the basics of touch typing to students that are looking to improve their typing speed.
 ---
 
 Assignment:
