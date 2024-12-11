@@ -11,6 +11,7 @@ The purpose of this tutorial is to familiarize the basics of touch typing to stu
 Touch typing is the idea of using all ten fingers on your keyboard in an efficient manner to produce fast typing speeds while also maintaing accuracy.
 
 ---
+Let's get started!
 
 **Proper Finger Placement:**
 
