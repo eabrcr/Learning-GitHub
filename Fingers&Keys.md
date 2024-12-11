@@ -36,6 +36,11 @@
 - **Pinky**:
   - Hits the **A**, **Q**, and **Z** keys (bottom row).
   - Also manages the **Shift** key on the left side.
+ 
+
+Perhaps practice on a plain text document hitting the correct keys associated with the correct fingers, or hop right into a typing website and start practing there. It is totally up to you, and this page is always here for reference.
+
+Below is the link to the recommended websites for typing practice:
 
 
 
