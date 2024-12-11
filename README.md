@@ -4,6 +4,7 @@
 **Audience:**
 
 The purpose of this tutorial is to familiarize the basics of touch typing to students that are looking to improve their typing speed. Anyone, however, can use this tutorial to help them improve their typing.
+
 ---
 **What is touch typing?**
 
