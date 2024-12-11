@@ -12,6 +12,6 @@ Touch typing is the idea of using all ten fingers on your keyboard in an efficie
 
 ---
 
-
+Proper Finger Placement:
 
 [https://github.com/eabrcr/Learning-GitHub/blob/main/FingerPlacement.md)
