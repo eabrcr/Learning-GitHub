@@ -18,4 +18,5 @@ It is important to note that your thumb on either hand can be used for spacebar.
 
 
 Once you are comfortable lining up your hands on the keyboard to the correct positions without looking, it is time to start typing!
+
 https://github.com/eabrcr/Learning-GitHub/blob/main/Fingers%26Keys.md
