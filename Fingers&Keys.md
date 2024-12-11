@@ -21,21 +21,25 @@
 
 ## Left Hand:
 
-- **Pinky**:
-  - Hits the **A**, **Q**, and **Z** keys (bottom row).
-  - Also manages the **Shift** key on the left side.
-  
-- **Ring Finger**:
-  - Hits the **S** and **W** keys (middle row).
-  - Also manages the **Caps Lock** and **Shift** keys on the left.
-
-- **Middle Finger**:
-  - Hits the **D** and **E** keys (middle row).
-
 - **Index Finger**:
   - Hits the **F** and **R** keys (middle row).
   - Hits the **G** and **T** keys (top row).
   - Also hits the **V** key (bottom row).
+
+ - **Middle Finger**:
+  - Hits the **D** and **E** keys (middle row).
+
+- **Ring Finger**:
+  - Hits the **S** and **W** keys (middle row).
+  - Also manages the **Caps Lock** and **Shift** keys on the left.
+ 
+- **Pinky**:
+  - Hits the **A**, **Q**, and **Z** keys (bottom row).
+  - Also manages the **Shift** key on the left side.
+
+
+
+
 
 
 
