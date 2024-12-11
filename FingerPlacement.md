@@ -13,6 +13,8 @@
   - **Middle finger**: D
   - **Index finger**: F
   - **Thumb**: Spacebar
+ 
+---
 
 It is important to note that your thumb on either hand can be used for spacebar. Some people only use their thumb on their left hand for space and vice versa, however, you can alternate as well.
 
