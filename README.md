@@ -1,7 +1,8 @@
 # Touch Typing Basics Tutorial
 ## Author: Ethan Baumhoff
 ---
-**Audience**
+**Audience:**
+
 The purpose of this tutorial is to familiarize the basics of touch typing to students that are looking to improve their typing speed. While this tutorial 
 
 ---
